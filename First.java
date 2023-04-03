@@ -8,5 +8,6 @@ public class First {
         System.out.println(n);
         sc.close();
         //this is to close();
+        //this has been written by london user
     }
 }
