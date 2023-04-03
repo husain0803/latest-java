@@ -7,5 +7,6 @@ public class First {
         String n=sc.nextLine();
         System.out.println(n);
         sc.close();
+        //this is to close();
     }
 }
